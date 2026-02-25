@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo Martin Cuadro Orestein</h1>
-<h3 align="center">A passionate full stack developer from Uruguay</h3>
+<h3 align="center">IT Infrastructure & Information Security professional with experience in corporate environments, and training in Full Stack Development.
 
-- 🔭 I’m currently working on **improve my back end skills**
+I have worked in system operations, access management, and production environments, and I use software development as a tool to better understand, support and collaborate with development and testing teams.
 
-- 💬 Ask me about **building relational databases whit SQL and SQL Alchemy**
+Currently focused on strengthening backend development skills and building practical projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
